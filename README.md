@@ -1,11 +1,3 @@
-Perfect 👍 I’ll write a **simple, human-style README** (not AI-looking), exactly matching what they asked in the assignment.
-
-I’ll keep it clear, professional, and realistic like a real developer wrote it.
-
-You can directly copy-paste this into your `README.md`.
-
----
-
 # RealTrust Platform – Full Stack Web Application
 
 ## Project Overview
